@@ -1,0 +1,6 @@
+
+logs/*
+logs_2stage_train/*
+*.pyc
+VOCdevkit/*
+.idea/*
